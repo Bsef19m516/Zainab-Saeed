@@ -30,6 +30,6 @@ ________________________
 
 ### :fire: Github Analytics :
 _________________________
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AyeshaRashid208&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bsef19m516&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaRashid208&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)
